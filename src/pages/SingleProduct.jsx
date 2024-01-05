@@ -246,7 +246,7 @@ const SingleProduct = () => {
         </div>
       </div>
 
-      <SingleProductReviews rating={rating} productData={productData} />
+      {/* <SingleProductReviews rating={rating} productData={productData} /> */}
     </>
   );
 };
